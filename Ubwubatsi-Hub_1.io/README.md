@@ -13,7 +13,7 @@ UbwubatsiHub is a web application designed for local architects and civil engine
 1. **Clone the repository**
    ```bash
    git clone <repository-url>
-   cd UbwubatsiHub
+   cd Ubwubatsi-Hub_1.io
    ```
 
 2. **Create a virtual environment**
