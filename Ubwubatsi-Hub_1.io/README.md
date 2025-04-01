@@ -29,11 +29,11 @@ UbwubatsiHub is a web application designed for local architects and civil engine
 
 4. **Run the application**
    ```bash
-   python app.py
+   python3 app.py
    ```
 
 5. **Access the application**
-   Open your web browser and go to `http://127.0.0.1:5000/`.
+   Open your web browser and go to `http://localhost:8081/`.
 
 ## Note
 This application is built using Flask and is designed to be lightweight and easy to run on macOS Big Sur. 
